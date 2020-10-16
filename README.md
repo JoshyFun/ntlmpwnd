@@ -12,16 +12,16 @@ library is needed.
 Some details on performance, running the program in a 2012 Intel i7 with a
 mechanic harddisk.
 
-Time to preprocess source hashes list: 
-    10 mins and 30 seconds. Mostly bound by HD performance.
-Final database size:
-    10 Gigabytes in 32 files.
+Time to preprocess source hashes list:  
+    10 mins and 30 seconds. Mostly bound by HD performance.  
+Final database size:  
+    10 Gigabytes in 32 files.  
 
-This first process is needed to be done once.
+This first process is needed to be done once.  
 
-User NTLM hashes checking speed (all positive):
-    On a cold drive 237,500 hashes checked in 92 seconds @ 2550 h/s
-    On a warm drive 237,500 hashes checked in 20 seconds @ 11800 h/s
+User NTLM hashes checking speed (all positive):  
+    On a cold drive 237,500 hashes checked in 92 seconds @ 2550 h/s  
+    On a warm drive 237,500 hashes checked in 20 seconds @ 11800 h/s  
 
 ****
 
