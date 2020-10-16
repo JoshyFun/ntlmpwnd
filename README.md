@@ -25,7 +25,7 @@ User NTLM hashes checking speed (all positive):
 
 ****
 
-    NTLM hashes PWND check. (c) 2020 joshyfun@gmail.com. License LGPL.
+    NTLM hashes PWND check. (c) 2020 joshyfun (at host) gmail.com. License LGPL.
 
     Usage: ntlmpwnd.exe -h --help --generate-blocks --check-users [--bits={n}] [--hashes-path={path}]  
 
